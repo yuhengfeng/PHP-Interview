@@ -61,9 +61,12 @@
     * [IP协议](computer/ip.md)
     * [UDP协议](computer/udp.md)
     * [Websocket](computer/websocket.md)
-         
+* PHP RESTful API设计
+    * [含义](api/api-meaning.md)
+    * [设计原理](api/api-theory.md)
+    * [状态码](api/api-status.md) 
+    * [编写Api文档](api/api-docs.md)        
 * 架构和系统设计
-    * [Api设计](system/api.md)   
     * [架构设计](system/架构设计.md)   
     
 * Composer 包管理工具 
